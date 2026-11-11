@@ -1,0 +1,14 @@
+# NetBeans / Java
+build/
+dist/
+nbproject/private/
+*.class
+*.war
+*.log
+# IDE / OS
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+# Local config
+*.local.properties
